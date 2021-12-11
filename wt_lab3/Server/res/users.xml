@@ -1,0 +1,3 @@
+<Users>
+	<User login="TestAdmin" password="Admin" status="1"></User>
+	<User login="TestUser" password="Passw0rd!" status="0"></User></Users>
